@@ -121,7 +121,7 @@
 	        "close": "Dichtbij",
 	        "bookmarkLabel": "Bladwijzer voor"
 	    },
-       "zoom": {
+        "zoom": {
             "zoomInButtonTooltip": "Zoom in op de kaart",
             "zoomOutButtonTooltip": "Zoom uit op de kaart"
         },
@@ -133,6 +133,34 @@
         },
         "about": {
             "title": "Over de kaart"
+        },
+        "legend": {
+            "placeholderText": "Zoek laag",
+            "turnOffTitle": "Zet alle lagen uit",
+            "showVisibleTitle": "Toon alleen verlichte lagen",
+            "showAllVisibleTitle": "Toon alle lagen",
+            "turnOnLayersTitle": "Zet alle lagen aan behalve de achtergrondlaag",
+            "addLayerTitle": "Laag toevoegen",
+            "selectHandlerError": "Zoekopties ontbreken",
+            "titleMissing": "Titel ontbreekt",
+            "layerSwitcher": "Laagschakelaar",
+            "close": "Sluiten",
+            "layer": "Laag",
+            "addLayerWarningGroup": "Groep",
+            "addLayerWarningDNE": "bestaat niet",
+            "layerTitleMissing": "Titel ontbreekt",
+            "layerIcon": "Laagicoon",
+            "toggleLayer": "Laagzichtbaarheid schakelen",
+            "showInfoMenuItem": "Toon",
+            "layerInfoMenuItem": "laaginformatie",
+            "groupInfoMenuItem": "groepsinformatie",
+            "zoomToExtentMenuItem": "Zoom naar",
+            "exportLayerTitle": "exporteer",
+            "exportLayerSave": "Laag opslaan",
+            "removeLayerQuestion": "Wilt u de laag verwijderen?",
+            "removeLayer": "Verwijder laag",
+            "moreInfoButtonLabel": "Toon laaginformatie",
+            "renderStyleSelect": "Selecteer stijl"
         }
     },
     "style": {
